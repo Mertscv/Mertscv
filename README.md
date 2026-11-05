@@ -13,7 +13,7 @@ mertcv@proton.me
 
  
 ### GitHub Stats: 
-![ GitHub Aktivite Grafiği] (https://github-readme-activity-graph.vercel.app/graph? Kullanıcı adı=Mertscv&bg_color=242424&color=d8dee9&line=c0c0c0&point=ffff&area_color=c0c0c0&ara=true&hide_border=true&hide_border=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=Mertscv&bg_color=242424&color=d8dee9&line=c0c0c0&point=ffffff&area_color=c0c0c0&area=true&hide_border=true)
  --- 
  
 
